@@ -1,0 +1,710 @@
+CHEM102
+General Chemistry II
+ÇİMEN ÖZGÜÇ ÖNAL
+THU : 11:00 - 13:50
+70
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+MON : 09:30 - 11:20
+12
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+MON : 12:00 - 13:50
+12
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+MON : 14:00 - 15:50
+12
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+TUE : 09:00 - 10:50
+12
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+TUE : 14:00 - 15:50
+12
+CHEM122
+General Chemistry Lab II
+EBRU DEMET AKDOĞAN
+TUE : 16:00 - 17:50
+12
+CIV102*1
+Equilibrium of Physical Systems
+SALİH TİLEYLİOĞLU
+MON : 09:00 - 12:50 - WED : 09:00 - 10:50
+25
+CIV201*1
+Surveying
+DENİZ BAŞAR
+THU : 09:00 - 11:50
+10
+CIV242
+Akışkan Davranışlarının İncelenmesi
+GÖKHAN KİRKİL
+TUE : 14:00 - 16:50 - THU : 16:00 - 17:50
+10
+CIV252*1
+Theory of Structures
+AHMET ÇAĞATAY TAHAOĞLU
+TUE : 09:00 - 13:50
+10
+CIV282*1
+Investigation of Construction Materials
+HASAN NURİ TÜRKMENOĞLU
+WED : 09:00 - 15:50
+10
+CIV299
+Summer Practice I
+SALİH TİLEYLİOĞLU
+MON : 08:00 - 07:51
+50
+CIV332
+Transportation Engineering
+SHAHIN SHAKIBAEI
+FRI : 09:00 - 12:50
+10
+CIV342
+Water Resources Engineering
+GÖKHAN KİRKİL
+WED : 09:00 - 12:50
+10
+CIV372*1
+Foundation Engineering
+SALİH TİLEYLİOĞLU
+MON : 14:30 - 17:20 - FRI : 13:00 - 14:50
+10
+CIV382
+Behavior of Reinforced Concrete Members
+ADİL CAN SUBAŞI
+THU : 09:00 - 15:50
+10
+CIV399
+Summer Practice II
+SALİH TİLEYLİOĞLU
+TUE : 08:00 - 07:51
+50
+CIV441
+Culvert Design
+GÖKHAN KİRKİL
+FRI : 13:00 - 16:50
+10
+CIV454
+Retrofitting of Exiting Structures
+BAYRAM AYGÜN
+THU : 09:00 - 12:50
+10
+CMPE140*1
+Computer Programming I
+ALBERT ÖZKOHEN
+MON : 16:30 - 18:20 - FRI : 17:00 - 18:50
+85
+CMPE140*1
+Computer Programming I
+RAHİM DEHKHARGHANİ
+TUE : 12:00 - 13:50 - THU : 12:30 - 14:20
+40
+CMPE140*1
+Computer Programming I
+RAHİM DEHKHARGHANİ
+TUE : 12:00 - 13:50 - THU : 15:00 - 16:50
+45
+CMPE140*1
+Computer Programming I
+RAHİM DEHKHARGHANİ
+WED : 09:00 - 10:50 - TUE : 12:00 - 13:50
+41
+CMPE140*1
+Computer Programming I
+RAHİM DEHKHARGHANİ
+WED : 13:30 - 15:20 - TUE : 12:00 - 13:50
+41
+CMPE241*1
+Computer Programming II
+ALBERT ÖZKOHEN
+FRI : 09:30 - 11:20 - TUE : 12:00 - 13:50
+80
+CMPE241*1
+Computer Programming II
+ALBERT ÖZKOHEN
+THU : 15:30 - 17:20 - TUE : 12:00 - 13:50
+80
+CMPE242
+Data Structures and Algorithms
+FABIO STROPPA
+MON : 15:00 - 17:50 - WED : 11:30 - 13:20
+68
+CMPE242
+Data Structures and Algorithms
+ALBERT ÖZKOHEN
+TUE : 16:00 - 18:50 - THU : 11:30 - 13:20
+120
+CMPE244*1
+Computer Organization and Architecture
+TANER ARSAN
+THU : 13:30 - 15:20 - FRI : 15:30 - 17:20
+120
+CMPE299
+Internship I
+İLKTAN AR
+FRI : 23:30 - 23:21
+500
+CMPE304*1
+Graph Theory
+ASLI TUNCER
+TUE : 13:00 - 15:50
+120
+CMPE344*1
+Database Systems
+SEYED SAJAD AHMADPOUR
+FRI : 11:30 - 15:20
+120
+CMPE348*1
+Formal Languages and Automata Theory
+İLKTAN AR
+TUE : 09:00 - 11:50
+170
+CMPE356*1
+Software Engineering Project
+İLKTAN AR
+MON : 09:00 - 10:40 - MON : 11:00 - 12:40
+120
+CMPE356*1
+Software Engineering Project
+İLKTAN AR
+MON : 09:00 - 10:50 - MON : 11:00 - 12:50
+120
+CMPE399
+Internship II
+İLKTAN AR
+MON : 08:00 - 07:51
+500
+CMPE405
+Introduction to Quantum Computing
+ÖZKAN KARABACAK
+FRI : 14:30 - 17:20
+40
+CMPE406
+Natural Language Processing Project
+RAHİM DEHKHARGHANİ
+FRI : 14:30 - 17:20
+50
+CMPE407
+Fault Tolerant Software Systems
+NİMA JAFARİ NAVİMİPOUR
+MON : 12:00 - 14:50
+50
+CMPE408
+Fundamentals of Natural Language Process
+ZEKİ ERDEM
+MON : 13:00 - 15:50
+35
+CMPE412
+Computer Simulation
+SEYED SAJAD AHMADPOUR
+MON : 09:00 - 11:50
+60
+CMPE451*1
+Network Engineering I
+TANER ARSAN
+MON : 13:00 - 15:50 - FRI : 09:30 - 11:20
+50
+CMPE484
+Mobile Application Project
+TAYYİP TOPUZ
+TUE : 10:00 - 12:50 - WED : 14:00 - 15:50
+60
+CMPE490
+Special Topics in Computer Engineering I
+FABIO STROPPA
+THU : 09:30 - 12:20
+40
+EEE104
+Introduction to Electrical-Electronics E
+AYDOĞAN ÖZDEMİR
+THU : 13:00 - 14:50 - THU : 15:30 - 16:20
+40
+EEE203*1
+Circuit Analysis I
+VAHİT BARIŞ TAVAKOL
+FRI : 14:30 - 16:20 - TUE : 12:30 - 15:20
+35
+EEE204*1
+Circuit Analysis II
+MEHMET TİMUR AYDEMİR
+TUE : 09:00 - 10:50 - MON : 13:30 - 16:20
+25
+EEE204*1
+Circuit Analysis II
+MEHMET TİMUR AYDEMİR
+TUE : 11:00 - 12:50 - MON : 13:30 - 16:20
+20
+EEE208*2
+Electronics Design Project
+ARİF SELÇUK ÖĞRENCİ
+MON : 12:30 - 13:20 - THU : 09:00 - 12:50
+45
+EEE299*1
+Internship I
+ARİF SELÇUK ÖĞRENCİ
+MON : 08:00 - 07:51
+100
+EEE302*1
+Communications I
+ERDAL PANAYIRCI
+TUE : 12:30 - 13:50 - TUE : 15:00 - 16:50 - MON : 16:30 - 17:50
+45
+EEE304*1
+Electronics II
+ARİF SELÇUK ÖĞRENCİ
+MON : 09:00 - 11:50 - WED : 10:00 - 11:50
+45
+EEE305*1
+Microcontrollers
+AHMET FEVZİ BOZKURT
+FRI : 09:00 - 13:50
+170
+EEE306
+Electromagnetics
+MEHMET TİMUR AYDEMİR
+THU : 11:30 - 14:20
+40
+EEE308*1
+Control Systems Project
+FEZA KERESTECİOĞLU
+THU : 15:00 - 17:50 - FRI : 14:00 - 16:50
+45
+EEE399
+Internship II
+ARİF SELÇUK ÖĞRENCİ
+WED : 23:30 - 23:21
+200
+EEE405
+Computational Intelligence Project
+ARİF SELÇUK ÖĞRENCİ
+WED : 15:30 - 17:20 - TUE : 09:00 - 11:50
+35
+EEE414
+Wireless Communications
+YALÇIN ŞADİ
+MON : 12:00 - 14:50 - MON : 15:30 - 17:20
+35
+EEE461*1
+Electrical Machines
+AYDOĞAN ÖZDEMİR
+FRI : 09:00 - 11:50
+35
+FENS102
+Engineering Mathematics II
+FUNDA SAMANLIOĞLU - AHMET NİHAT BERKER
+FRI : 12:30 - 14:20 - WED : 14:00 - 15:50
+200
+FENS102
+Engineering Mathematics II
+AYŞE HÜMEYRA BİLGE
+FRI : 14:30 - 16:20 - WED : 16:00 - 17:50
+180
+FENS102
+Engineering Mathematics II
+İRMA HACINLIYAN
+FRI : 16:00 - 17:50 - FRI : 14:00 - 15:50
+150
+FENS102
+Engineering Mathematics II
+AYŞE HÜMEYRA BİLGE
+WED : 11:30 - 13:20 - FRI : 12:30 - 14:20
+175
+FENS103
+Complexity in Natural Sciences
+DENİZ EROĞLU - ARASH MOHAMMADIAN REZAEINAZHAD
+MON : 09:00 - 11:50
+115
+FENS103
+Complexity in Natural Sciences
+DENİZ EROĞLU - ARASH MOHAMMADIAN REZAEINAZHAD
+THU : 09:00 - 11:50
+110
+FENS103
+Complexity in Natural Sciences
+DENİZ EROĞLU - ARASH MOHAMMADIAN REZAEINAZHAD
+TUE : 15:00 - 17:50
+110
+FENS112
+Physics II
+MEHMET ÖNDER PEKCAN
+FRI : 09:00 - 11:50 - WED : 18:00 - 19:50
+120
+FENS112
+Physics II
+MEHMET ÖNDER PEKCAN
+TUE : 09:00 - 11:50 - WED : 18:00 - 19:50
+130
+FENS112
+Physics II
+AHMET NİHAT BERKER
+WED : 18:00 - 19:50 - FRI : 09:00 - 11:50
+150
+FENS112
+Physics II
+AHMET NİHAT BERKER
+WED : 18:00 - 19:50 - TUE : 09:00 - 11:50
+150
+FENS200*1
+Probability and Statistics
+GÖKER ARPAĞ
+MON : 16:00 - 18:50
+40
+FENS300
+Numerical Methods
+AYŞE HÜMEYRA BİLGE - FEZA KERESTECİOĞLU - GÖKHAN KİRKİL
+WED : 13:30 - 15:20 - MON : 12:30 - 14:20
+260
+FENS310
+Economics for Engineers
+MELTEM UCAL - GÖKHAN KİRKİL - ASLI TOGAN - OĞUZ ERSAN
+MON : 09:00 - 11:50
+220
+FENS402
+Mühendislik Tasarım Projesi II
+GÖKHAN KİRKİL
+FRI : 11:00 - 12:50
+30
+FENS402
+Mühendislik Tasarım Projesi II
+PELİN GÜLŞAH CANBOLAT
+FRI : 12:30 - 14:20
+500
+FENS402
+Mühendislik Tasarım Projesi II
+YALÇIN ŞADİ
+FRI : 16:00 - 17:50
+50
+FENS402
+Mühendislik Tasarım Projesi II
+ÖZKAN KARABACAK
+TUE : 09:30 - 11:20
+50
+FENS402
+Mühendislik Tasarım Projesi II
+İLKTAN AR
+WED : 18:00 - 19:50
+120
+FENS410
+Entrepreneurship
+YALÇIN ŞADİ
+THU : 12:30 - 14:20
+150
+FENS495
+Scientific Research I
+FABIO STROPPA
+FRI : 11:30 - 14:20
+10
+FENS496
+Scientific Research II
+FABIO STROPPA
+THU : 12:30 - 15:20
+10
+GE200
+Fantasy, Reality, Science, Society, and
+AHMET NİHAT BERKER
+MON : 15:00 - 17:50
+107
+GE212
+Globalization, Technology, and Life Mana
+İLKTAN AR
+TUE : 13:00 - 15:50
+52
+INE214
+Programming Tools for Industrial Enginee
+BURAK ŞEN
+THU : 09:00 - 11:50
+42
+INE214
+Programming Tools for Industrial Enginee
+BURAK ŞEN
+WED : 09:00 - 11:50
+42
+INE216
+Engineering Economics
+AHMET DENİZ YÜCEKAYA
+MON : 14:30 - 17:20
+120
+INE241*1
+Manufacturing Processes and Materials
+EMRE ÇEVİKCAN
+TUE : 13:30 - 16:20
+110
+INE299
+Internship I
+ZEYNEP BEKTAS
+MON : 08:00 - 07:51
+110
+INE312
+Operations Research II
+FUNDA SAMANLIOĞLU
+THU : 09:00 - 11:50
+110
+INE315
+Design of Experiments
+CENGİZ KAHRAMAN
+WED : 14:00 - 16:50
+60
+INE321
+Facility Design and Plant Layout
+ZEYNEP BEKTAS
+WED : 09:30 - 12:20
+50
+INE324*1
+Data Analytics in Industrial Systems
+ZEYNEP BEKTAS
+THU : 13:00 - 14:20 - TUE : 12:00 - 13:20
+130
+INE332
+Systems Simulation
+PELİN GÜLŞAH CANBOLAT
+FRI : 09:00 - 11:50
+120
+INE342
+Materials Management
+AHMET DENİZ YÜCEKAYA
+TUE : 09:00 - 11:50
+110
+INE399
+Staj II
+ZEYNEP BEKTAS
+MON : 08:00 - 07:51
+110
+INE409
+Decision Analysis
+PELİN GÜLŞAH CANBOLAT
+MON : 12:30 - 15:20
+60
+INE412
+Statistical Quality Control
+CENGİZ KAHRAMAN
+WED : 10:30 - 13:20
+110
+INE421
+Innovation Management
+ENVERA JAHOVİÇ SARAYLI
+MON : 09:00 - 11:50
+60
+INE443
+Energy and Sustainability
+ŞEVKET VOLKAN EDİGER
+MON : 15:30 - 18:20
+60
+INE488
+Special Topics in IE
+AHMET DENİZ YÜCEKAYA - KEREM ŞURĞUN
+TUE : 15:00 - 17:40
+43
+INE488
+Special Topics in IE
+AHMET DENİZ YÜCEKAYA - KEREM ŞURĞUN
+TUE : 15:00 - 17:50
+43
+MBG101
+Genetics and Society
+KEMAL YELEKÇİ
+TUE : 12:30 - 15:20
+41
+MBG104
+Biology II
+FARZANEH LARTİ
+THU : 16:30 - 19:20
+90
+MBG118
+Biology Lab II
+YİĞİT KOCAGÖZ
+FRI : 10:00 - 11:50
+17
+MBG118
+Biology Lab II
+YİĞİT KOCAGÖZ
+FRI : 12:30 - 14:20
+15
+MBG118
+Biology Lab II
+YİĞİT KOCAGÖZ
+FRI : 16:30 - 18:20
+15
+MBG202
+Bioorganic Chemistry II
+KEMAL YELEKÇİ
+WED : 11:30 - 14:20
+10
+MBG208*2
+Virtual Basic Lab
+NURAY SÖĞÜNMEZ ERDOĞAN - GÖKER ARPAĞ
+MON : 12:30 - 15:20
+50
+MBG210*1
+Human Physiology
+FARZANEH LARTİ
+MON : 09:00 - 11:50
+50
+MBG212
+Bioorganic Chemistry II
+KEMAL YELEKÇİ
+WED : 11:30 - 14:20 - THU : 09:00 - 10:50
+15
+MBG212
+Bioorganic Chemistry II
+KEMAL YELEKÇİ
+WED : 11:30 - 14:20 - THU : 14:00 - 15:50
+16
+MBG212
+Bioorganic Chemistry II
+KEMAL YELEKÇİ
+WED : 11:30 - 14:20 - THU : 16:00 - 17:50
+15
+MBG214
+Introduction to Biostatistics
+GÖKER ARPAĞ
+MON : 16:00 - 18:50
+40
+MBG215
+Biology II
+FARZANEH LARTİ
+THU : 16:30 - 19:20
+90
+MBG222
+Bioorganic Chemistry Lab II
+KEMAL YELEKÇİ
+THU : 09:00 - 10:50
+15
+MBG222
+Bioorganic Chemistry Lab II
+KEMAL YELEKÇİ
+THU : 14:00 - 15:50
+15
+MBG222
+Bioorganic Chemistry Lab II
+KEMAL YELEKÇİ
+THU : 16:00 - 17:50
+15
+MBG299
+Internship I
+KEMAL YELEKÇİ
+FRI : 23:30 - 23:21
+100
+MBG304
+Biyoinformatiğe Giriş
+EBRU DEMET AKDOĞAN
+FRI : 09:00 - 11:50
+40
+MBG306
+Biochemistry II
+EBRU BİLGET GÜVEN
+TUE : 12:00 - 14:50
+35
+MBG318
+Protein Katlaması
+ŞEBNEM EŞSİZ TEKGÜÇ
+THU : 15:00 - 17:50
+40
+MBG322*1
+Molecular Biology and Genetics II
+YASEMİN ÖNDER
+TUE : 15:00 - 17:50 - WED : 09:00 - 10:50
+15
+MBG322*1
+Molecular Biology and Genetics II
+YASEMİN ÖNDER
+TUE : 15:00 - 17:50 - WED : 11:30 - 13:20
+15
+MBG322*1
+Molecular Biology and Genetics II
+YASEMİN ÖNDER
+TUE : 15:00 - 17:50 - WED : 13:30 - 15:20
+15
+MBG399
+Internship II
+KEMAL YELEKÇİ
+MON : 08:00 - 07:51
+100
+MBG406
+Omics
+NURAY SÖĞÜNMEZ ERDOĞAN
+FRI : 09:00 - 11:50
+40
+MBG412*1
+Graduate Project II
+YASEMİN ÖNDER
+FRI : 16:00 - 17:50
+100
+MBG420
+Sinyal Yolakları
+EBRU BİLGET GÜVEN
+FRI : 12:30 - 15:20
+40
+MBG428
+Yapısal Biyoinformatik
+ŞEBNEM EŞSİZ TEKGÜÇ
+MON : 12:30 - 15:20
+40
+MBG430
+Nörofarmakoloji
+YASEMİN ÖNDER
+TUE : 09:00 - 11:50
+40
+MBG432
+Computer Aided Drug Design
+EBRU DEMET AKDOĞAN
+THU : 09:00 - 11:50
+40
+MTE102
+Introduction to Mechatronics Engineering
+VAHİT BARIŞ TAVAKOL
+TUE : 15:30 - 18:20
+80
+MTE294*2
+Mechanical System Simulation Project
+FARAZ TEHRANİZADEH
+MON : 12:00 - 14:40 - THU : 12:00 - 14:40
+40
+MTE294*2
+Mechanical System Simulation Project
+FARAZ TEHRANİZADEH
+MON : 12:00 - 14:50 - THU : 12:00 - 14:50
+40
+MTE299
+Internship I
+FARAZ TEHRANİZADEH
+MON : 08:00 - 07:51
+100
+MTE312
+Machine Elements
+FARAZ TEHRANİZADEH
+TUE : 09:30 - 12:20
+40
+MTE392*1
+Embedded Systems Design Project
+AHMET FEVZİ BOZKURT
+FRI : 09:00 - 13:50
+40
+MTE394
+System Dynamics and Control Project
+MİNE SARAÇ STROPPA
+THU : 15:00 - 17:50 - WED : 09:00 - 11:50
+55
+MTE399
+Internship II
+FARAZ TEHRANİZADEH
+MON : 08:00 - 07:51
+100
+MTE405
+Medical Robotics
+ALPEREN ACEMOĞLU
+TUE : 12:30 - 15:20
+30
+MTE451
+Robot Control Project
+ALPEREN ACEMOĞLU
+THU : 09:00 - 13:50
+40

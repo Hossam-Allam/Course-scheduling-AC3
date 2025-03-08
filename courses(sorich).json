@@ -1,0 +1,654 @@
+{
+  "CHEM102_1_1": {
+    "professor": "çi̇men özgüç önal",
+    "enrollment": 70
+  },
+  "CHEM122_1_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CHEM122_2_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CHEM122_3_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CHEM122_4_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CHEM122_5_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CHEM122_6_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 12
+  },
+  "CIV102*1_1_1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 25
+  },
+  "CIV102*1_1_2": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 25
+  },
+  "CIV201*1_1_1": {
+    "professor": "deni̇z başar",
+    "enrollment": 10
+  },
+  "CIV242_1_1": {
+    "professor": "gökhan ki̇rki̇l",
+    "enrollment": 10
+  },
+  "CIV242_1_2": {
+    "professor": "gökhan ki̇rki̇l",
+    "enrollment": 10
+  },
+  "CIV252*1_1_1": {
+    "professor": "ahmet çağatay tahaoğlu",
+    "enrollment": 10
+  },
+  "CIV282*1_1_1": {
+    "professor": "hasan nuri̇ türkmenoğlu",
+    "enrollment": 10
+  },
+  "CIV299_1_1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 50
+  },
+  "CIV332_1_1": {
+    "professor": "shahin shakibaei",
+    "enrollment": 10
+  },
+  "CIV342_1_1": {
+    "professor": "gökhan ki̇rki̇l",
+    "enrollment": 10
+  },
+  "CIV372*1_1_1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 10
+  },
+  "CIV372*1_1_2": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 10
+  },
+  "CIV382_1_1": {
+    "professor": "adi̇l can subaşi",
+    "enrollment": 10
+  },
+  "CIV399_1_1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "enrollment": 50
+  },
+  "CIV441_1_1": {
+    "professor": "gökhan ki̇rki̇l",
+    "enrollment": 10
+  },
+  "CIV454_1_1": {
+    "professor": "bayram aygün",
+    "enrollment": 10
+  },
+  "CMPE140*1_LEC_1_1": {
+    "professor": "albert özkohen",
+    "enrollment": 85
+  },
+  "CMPE140*1_LEC_2_1": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 40
+  },
+  "CMPE140*1_LAB_1_1": {
+    "professor": "albert özkohen",
+    "enrollment": 85
+  },
+  "CMPE140*1_LAB_2_1": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 40
+  },
+  "CMPE140*1_LAB_2_2": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 40
+  },
+  "CMPE140*1_LAB_2_3": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 40
+  },
+  "CMPE140*1_LAB_2_4": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 40
+  },
+  "CMPE241*1_LEC_1_1": {
+    "professor": "albert özkohen",
+    "enrollment": 80
+  },
+  "CMPE241*1_LAB_1_1": {
+    "professor": "albert özkohen",
+    "enrollment": 40
+  },
+  "CMPE241*1_LAB_1_2": {
+    "professor": "albert özkohen",
+    "enrollment": 40
+  },
+  "CMPE242_LEC_1_1": {
+    "professor": "fabio stroppa",
+    "enrollment": 68
+  },
+  "CMPE242_LEC_2_1": {
+    "professor": "albert özkohen",
+    "enrollment": 120
+  },
+  "CMPE242_LAB_1_1": {
+    "professor": "fabio stroppa",
+    "enrollment": 68
+  },
+  "CMPE242_LAB_2_1": {
+    "professor": "albert özkohen",
+    "enrollment": 120
+  },
+  "CMPE244*1_1_1": {
+    "professor": "taner arsan",
+    "enrollment": 120
+  },
+  "CMPE244*1_1_2": {
+    "professor": "taner arsan",
+    "enrollment": 120
+  },
+  "CMPE304*1_1_1": {
+    "professor": "asli tuncer",
+    "enrollment": 120
+  },
+  "CMPE344*1_1_1": {
+    "professor": "seyed sajad ahmadpour",
+    "enrollment": 120
+  },
+  "CMPE348*1_1_1": {
+    "professor": "i̇lktan ar",
+    "enrollment": 170
+  },
+  "CMPE356*1_1_1": {
+    "professor": "i̇lktan ar",
+    "enrollment": 120
+  },
+  "CMPE356*1_1_2": {
+    "professor": "i̇lktan ar",
+    "enrollment": 120
+  },
+  "CMPE405_1_1": {
+    "professor": "özkan karabacak",
+    "enrollment": 40
+  },
+  "CMPE406_1_1": {
+    "professor": "rahi̇m dehkharghani̇",
+    "enrollment": 50
+  },
+  "CMPE407_1_1": {
+    "professor": "ni̇ma jafari̇ navi̇mi̇pour",
+    "enrollment": 50
+  },
+  "CMPE408_1_1": {
+    "professor": "zeki̇ erdem",
+    "enrollment": 35
+  },
+  "CMPE412_1_1": {
+    "professor": "seyed sajad ahmadpour",
+    "enrollment": 60
+  },
+  "CMPE451*1_1_1": {
+    "professor": "taner arsan",
+    "enrollment": 50
+  },
+  "CMPE451*1_1_2": {
+    "professor": "taner arsan",
+    "enrollment": 50
+  },
+  "CMPE484_1_1": {
+    "professor": "tayyi̇p topuz",
+    "enrollment": 60
+  },
+  "CMPE484_1_2": {
+    "professor": "tayyi̇p topuz",
+    "enrollment": 60
+  },
+  "CMPE490_1_1": {
+    "professor": "fabio stroppa",
+    "enrollment": 40
+  },
+  "EEE104_LEC_1_1": {
+    "professor": "aydoğan özdemi̇r",
+    "enrollment": 40
+  },
+  "EEE104_LAB_1_1": {
+    "professor": "aydoğan özdemi̇r",
+    "enrollment": 40
+  },
+  "EEE203*1_LAB_1_1": {
+    "professor": "vahi̇t bariş tavakol",
+    "enrollment": 35
+  },
+  "EEE203*1_LEC_1_1": {
+    "professor": "vahi̇t bariş tavakol",
+    "enrollment": 35
+  },
+  "EEE204*1_LEC_1_1": {
+    "professor": "mehmet ti̇mur aydemi̇r",
+    "enrollment": 25
+  },
+  "EEE204*1_LAB_1_1": {
+    "professor": "mehmet ti̇mur aydemi̇r",
+    "enrollment": 25
+  },
+  "EEE204*1_LAB_1_2": {
+    "professor": "mehmet ti̇mur aydemi̇r",
+    "enrollment": 25
+  },
+  "EEE208*2_1_1": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "enrollment": 45
+  },
+  "EEE208*2_1_2": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "enrollment": 45
+  },
+  "EEE302*1_1_1": {
+    "professor": "erdal panayirci",
+    "enrollment": 45
+  },
+  "EEE302*1_1_2": {
+    "professor": "erdal panayirci",
+    "enrollment": 45
+  },
+  "EEE302*1_1_3": {
+    "professor": "erdal panayirci",
+    "enrollment": 45
+  },
+  "EEE304*1_LEC_1_1": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "enrollment": 45
+  },
+  "EEE304*1_LAB_1_1": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "enrollment": 45
+  },
+  "EEE305*1_1_1": {
+    "professor": "ahmet fevzi̇ bozkurt",
+    "enrollment": 170
+  },
+  "EEE306_1_1": {
+    "professor": "mehmet ti̇mur aydemi̇r",
+    "enrollment": 40
+  },
+  "EEE308*1_1_1": {
+    "professor": "feza keresteci̇oğlu",
+    "enrollment": 45
+  },
+  "EEE308*1_1_2": {
+    "professor": "feza keresteci̇oğlu",
+    "enrollment": 45
+  },
+  "EEE414_LEC_1_1": {
+    "professor": "yalçin şadi̇",
+    "enrollment": 35
+  },
+  "EEE414_LAB_1_1": {
+    "professor": "yalçin şadi̇",
+    "enrollment": 35
+  },
+  "EEE461*1_1_1": {
+    "professor": "aydoğan özdemi̇r",
+    "enrollment": 35
+  },
+  "FENS102_1_1": {
+    "professor": "funda samanlioğlu - ahmet ni̇hat berker",
+    "enrollment": 200
+  },
+  "FENS102_1_2": {
+    "professor": "funda samanlioğlu - ahmet ni̇hat berker",
+    "enrollment": 200
+  },
+  "FENS102_2_1": {
+    "professor": "ayşe hümeyra bi̇lge",
+    "enrollment": 180
+  },
+  "FENS102_2_2": {
+    "professor": "ayşe hümeyra bi̇lge",
+    "enrollment": 180
+  },
+  "FENS102_3_1": {
+    "professor": "i̇rma hacinliyan",
+    "enrollment": 150
+  },
+  "FENS102_3_2": {
+    "professor": "i̇rma hacinliyan",
+    "enrollment": 150
+  },
+  "FENS102_4_1": {
+    "professor": "ayşe hümeyra bi̇lge",
+    "enrollment": 175
+  },
+  "FENS102_4_2": {
+    "professor": "ayşe hümeyra bi̇lge",
+    "enrollment": 175
+  },
+  "FENS103_1_1": {
+    "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+    "enrollment": 115
+  },
+  "FENS103_2_1": {
+    "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+    "enrollment": 110
+  },
+  "FENS103_3_1": {
+    "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+    "enrollment": 110
+  },
+  "FENS112_1_1": {
+    "professor": "mehmet önder pekcan",
+    "enrollment": 120
+  },
+  "FENS112_1_2": {
+    "professor": "mehmet önder pekcan",
+    "enrollment": 120
+  },
+  "FENS112_2_1": {
+    "professor": "mehmet önder pekcan",
+    "enrollment": 130
+  },
+  "FENS112_2_2": {
+    "professor": "mehmet önder pekcan",
+    "enrollment": 130
+  },
+  "FENS112_3_1": {
+    "professor": "ahmet ni̇hat berker",
+    "enrollment": 150
+  },
+  "FENS112_3_2": {
+    "professor": "ahmet ni̇hat berker",
+    "enrollment": 150
+  },
+  "FENS112_4_1": {
+    "professor": "ahmet ni̇hat berker",
+    "enrollment": 150
+  },
+  "FENS112_4_2": {
+    "professor": "ahmet ni̇hat berker",
+    "enrollment": 150
+  },
+  "FENS200*1_1_1": {
+    "professor": "göker arpağ",
+    "enrollment": 40
+  },
+  "FENS300_1_1": {
+    "professor": "ayşe hümeyra bi̇lge - feza keresteci̇oğlu - gökhan ki̇rki̇l",
+    "enrollment": 260
+  },
+  "FENS300_1_2": {
+    "professor": "ayşe hümeyra bi̇lge - feza keresteci̇oğlu - gökhan ki̇rki̇l",
+    "enrollment": 260
+  },
+  "FENS310_1_1": {
+    "professor": "meltem ucal - gökhan ki̇rki̇l - asli togan - oğuz ersan",
+    "enrollment": 220
+  },
+  "FENS410_1_1": {
+    "professor": "yalçin şadi̇",
+    "enrollment": 150
+  },
+  "FENS495_1_1": {
+    "professor": "fabio stroppa",
+    "enrollment": 10
+  },
+  "FENS496_1_1": {
+    "professor": "fabio stroppa",
+    "enrollment": 10
+  },
+  "GE200_1_1": {
+    "professor": "ahmet ni̇hat berker",
+    "enrollment": 107
+  },
+  "GE212_1_1": {
+    "professor": "i̇lktan ar",
+    "enrollment": 52
+  },
+  "INE214_1_1": {
+    "professor": "burak şen",
+    "enrollment": 42
+  },
+  "INE214_2_1": {
+    "professor": "burak şen",
+    "enrollment": 42
+  },
+  "INE216_1_1": {
+    "professor": "ahmet deni̇z yücekaya",
+    "enrollment": 120
+  },
+  "INE241*1_1_1": {
+    "professor": "emre çevi̇kcan",
+    "enrollment": 110
+  },
+  "INE299_1_1": {
+    "professor": "zeynep bektas",
+    "enrollment": 110
+  },
+  "INE312_1_1": {
+    "professor": "funda samanlioğlu",
+    "enrollment": 110
+  },
+  "INE315_1_1": {
+    "professor": "cengi̇z kahraman",
+    "enrollment": 60
+  },
+  "INE321_1_1": {
+    "professor": "zeynep bektas",
+    "enrollment": 50
+  },
+  "INE324*1_1_1": {
+    "professor": "zeynep bektas",
+    "enrollment": 130
+  },
+  "INE324*1_1_2": {
+    "professor": "zeynep bektas",
+    "enrollment": 130
+  },
+  "INE332_1_1": {
+    "professor": "peli̇n gülşah canbolat",
+    "enrollment": 120
+  },
+  "INE342_1_1": {
+    "professor": "ahmet deni̇z yücekaya",
+    "enrollment": 110
+  },
+  "INE399_1_1": {
+    "professor": "zeynep bektas",
+    "enrollment": 110
+  },
+  "INE409_1_1": {
+    "professor": "peli̇n gülşah canbolat",
+    "enrollment": 60
+  },
+  "INE412_1_1": {
+    "professor": "cengi̇z kahraman",
+    "enrollment": 110
+  },
+  "INE421_1_1": {
+    "professor": "envera jahovi̇ç sarayli",
+    "enrollment": 60
+  },
+  "INE443_1_1": {
+    "professor": "şevket volkan edi̇ger",
+    "enrollment": 60
+  },
+  "INE488_1_1": {
+    "professor": "ahmet deni̇z yücekaya - kerem şurğun",
+    "enrollment": 43
+  },
+  "INE488_2_1": {
+    "professor": "ahmet deni̇z yücekaya - kerem şurğun",
+    "enrollment": 43
+  },
+  "MBG101_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 41
+  },
+  "MBG104_1_1": {
+    "professor": "farzaneh larti̇",
+    "enrollment": 90
+  },
+  "MBG118_1_1": {
+    "professor": "yi̇ği̇t kocagöz",
+    "enrollment": 17
+  },
+  "MBG118_2_1": {
+    "professor": "yi̇ği̇t kocagöz",
+    "enrollment": 15
+  },
+  "MBG118_3_1": {
+    "professor": "yi̇ği̇t kocagöz",
+    "enrollment": 15
+  },
+  "MBG202_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 10
+  },
+  "MBG208*2_1_1": {
+    "professor": "nuray söğünmez erdoğan - göker arpağ",
+    "enrollment": 50
+  },
+  "MBG210*1_1_1": {
+    "professor": "farzaneh larti̇",
+    "enrollment": 50
+  },
+  "MBG212_LEC_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG212_LAB_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG212_LAB_1_2": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG214_1_1": {
+    "professor": "göker arpağ",
+    "enrollment": 40
+  },
+  "MBG215_1_1": {
+    "professor": "farzaneh larti̇",
+    "enrollment": 90
+  },
+  "MBG222_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG222_2_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG222_3_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 15
+  },
+  "MBG299_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 100
+  },
+  "MBG304_1_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 40
+  },
+  "MBG306_1_1": {
+    "professor": "ebru bi̇lget güven",
+    "enrollment": 35
+  },
+  "MBG318_1_1": {
+    "professor": "şebnem eşsi̇z tekgüç",
+    "enrollment": 40
+  },
+  "MBG322*1_LEC_1_1": {
+    "professor": "yasemi̇n önder",
+    "enrollment": 15
+  },
+  "MBG322*1_LAB_1_1": {
+    "professor": "yasemi̇n önder",
+    "enrollment": 15
+  },
+  "MBG322*1_LAB_1_2": {
+    "professor": "yasemi̇n önder",
+    "enrollment": 15
+  },
+  "MBG399_1_1": {
+    "professor": "kemal yelekçi̇",
+    "enrollment": 100
+  },
+  "MBG406_1_1": {
+    "professor": "nuray söğünmez erdoğan",
+    "enrollment": 40
+  },
+  "MBG412*1_1_1": {
+    "professor": "yasemi̇n önder",
+    "enrollment": 100
+  },
+  "MBG420_1_1": {
+    "professor": "ebru bi̇lget güven",
+    "enrollment": 40
+  },
+  "MBG428_1_1": {
+    "professor": "şebnem eşsi̇z tekgüç",
+    "enrollment": 40
+  },
+  "MBG430_1_1": {
+    "professor": "yasemi̇n önder",
+    "enrollment": 40
+  },
+  "MBG432_1_1": {
+    "professor": "ebru demet akdoğan",
+    "enrollment": 40
+  },
+  "MTE102_1_1": {
+    "professor": "vahi̇t bariş tavakol",
+    "enrollment": 80
+  },
+  "MTE294*2_1_1": {
+    "professor": "faraz tehrani̇zadeh",
+    "enrollment": 40
+  },
+  "MTE294*2_1_2": {
+    "professor": "faraz tehrani̇zadeh",
+    "enrollment": 40
+  },
+  "MTE299_1_1": {
+    "professor": "faraz tehrani̇zadeh",
+    "enrollment": 100
+  },
+  "MTE312_1_1": {
+    "professor": "faraz tehrani̇zadeh",
+    "enrollment": 40
+  },
+  "MTE392*1_1_1": {
+    "professor": "ahmet fevzi̇ bozkurt",
+    "enrollment": 40
+  },
+  "MTE394_1_1": {
+    "professor": "mi̇ne saraç stroppa",
+    "enrollment": 55
+  },
+  "MTE394_1_2": {
+    "professor": "mi̇ne saraç stroppa",
+    "enrollment": 55
+  },
+  "MTE399_1_1": {
+    "professor": "faraz tehrani̇zadeh",
+    "enrollment": 100
+  },
+  "MTE405_1_1": {
+    "professor": "alperen acemoğlu",
+    "enrollment": 30
+  },
+  "MTE451_1_1": {
+    "professor": "alperen acemoğlu",
+    "enrollment": 40
+  }
+}

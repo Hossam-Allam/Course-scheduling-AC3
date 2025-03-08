@@ -1,0 +1,695 @@
+{
+  "CHEM102": {
+    "professor": "çi̇men özgüç önal",
+    "weekly": 1,
+    "capacity": 70
+  },
+  "CHEM122": [
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    },
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    },
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    },
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    },
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    },
+    {
+      "professor": "ebru demet akdoğan",
+      "weekly": 1,
+      "capacity": 12
+    }
+  ],
+  "CIV102*1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "weekly": 2,
+    "capacity": 25
+  },
+  "CIV201*1": {
+    "professor": "deni̇z başar",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV242": {
+    "professor": "gökhan ki̇rki̇l",
+    "weekly": 2,
+    "capacity": 10
+  },
+  "CIV252*1": {
+    "professor": "ahmet çağatay tahaoğlu",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV282*1": {
+    "professor": "hasan nuri̇ türkmenoğlu",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV299": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "CIV332": {
+    "professor": "shahin shakibaei",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV342": {
+    "professor": "gökhan ki̇rki̇l",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV372*1": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "weekly": 2,
+    "capacity": 10
+  },
+  "CIV382": {
+    "professor": "adi̇l can subaşi",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV399": {
+    "professor": "sali̇h ti̇leyli̇oğlu",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "CIV441": {
+    "professor": "gökhan ki̇rki̇l",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CIV454": {
+    "professor": "bayram aygün",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "CMPE140*1_LEC": [
+    {
+      "professor": "albert özkohen",
+      "weekly": 1,
+      "capacity": 85
+    },
+    {
+      "professor": "rahi̇m dehkharghani̇",
+      "weekly": 1,
+      "capacity": 40
+    }
+  ],
+  "CMPE140*1_LAB": [
+    {
+      "professor": "albert özkohen",
+      "weekly": 1,
+      "capacity": 85
+    },
+    {
+      "professor": "rahi̇m dehkharghani̇",
+      "weekly": 4,
+      "capacity": 40
+    }
+  ],
+  "CMPE241*1_LEC": [
+    {
+      "professor": "albert özkohen",
+      "weekly": 1,
+      "capacity": 80
+    }
+  ],
+  "CMPE241*1_LAB": [
+    {
+      "professor": "albert özkohen",
+      "weekly": 2,
+      "capacity": 40
+    }
+  ],
+  "CMPE242_LEC": [
+    {
+      "professor": "fabio stroppa",
+      "weekly": 1,
+      "capacity": 68
+    },
+    {
+      "professor": "albert özkohen",
+      "weekly": 1,
+      "capacity": 120
+    }
+  ],
+  "CMPE242_LAB": [
+    {
+      "professor": "fabio stroppa",
+      "weekly": 1,
+      "capacity": 68
+    },
+    {
+      "professor": "albert özkohen",
+      "weekly": 1,
+      "capacity": 120
+    }
+  ],
+  "CMPE244*1": {
+    "professor": "taner arsan",
+    "weekly": 2,
+    "capacity": 120
+  },
+  "CMPE304*1": {
+    "professor": "asli tuncer",
+    "weekly": 1,
+    "capacity": 120
+  },
+  "CMPE344*1": {
+    "professor": "seyed sajad ahmadpour",
+    "weekly": 1,
+    "capacity": 120
+  },
+  "CMPE348*1": {
+    "professor": "i̇lktan ar",
+    "weekly": 1,
+    "capacity": 170
+  },
+  "CMPE356*1": {
+      "professor": "i̇lktan ar",
+      "weekly": 2,
+      "capacity": 120
+    },
+  "CMPE405": {
+    "professor": "özkan karabacak",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "CMPE406": {
+    "professor": "rahi̇m dehkharghani̇",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "CMPE407": {
+    "professor": "ni̇ma jafari̇ navi̇mi̇pour",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "CMPE408": {
+    "professor": "zeki̇ erdem",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "CMPE412": {
+    "professor": "seyed sajad ahmadpour",
+    "weekly": 1,
+    "capacity": 60
+  },
+  "CMPE451*1": {
+    "professor": "taner arsan",
+    "weekly": 2,
+    "capacity": 50
+  },
+  "CMPE484": {
+    "professor": "tayyi̇p topuz",
+    "weekly": 2,
+    "capacity": 60
+  },
+  "CMPE490": {
+    "professor": "fabio stroppa",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "EEE104_LEC": {
+    "professor": "aydoğan özdemi̇r",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "EEE104_LAB": {
+    "professor": "aydoğan özdemi̇r",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "EEE203*1_LAB": {
+    "professor": "vahi̇t bariş tavakol",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "EEE203*1_LEC": {
+    "professor": "vahi̇t bariş tavakol",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "EEE204*1_LEC": {
+      "professor": "mehmet ti̇mur aydemi̇r",
+      "weekly": 1,
+      "capacity": 25
+  },
+  "EEE204*1_LAB": {
+      "professor": "mehmet ti̇mur aydemi̇r",
+      "weekly": 2,
+      "capacity": 25
+  },
+  "EEE208*2": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "weekly": 2,
+    "capacity": 45
+  },
+  "EEE302*1": {
+    "professor": "erdal panayirci",
+    "weekly": 3,
+    "capacity": 45
+  },
+  "EEE304*1_LEC": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "weekly": 1,
+    "capacity": 45
+  },
+  "EEE304*1_LAB": {
+    "professor": "ari̇f selçuk öğrenci̇",
+    "weekly": 1,
+    "capacity": 45
+  },
+  "EEE305*1": {
+    "professor": "ahmet fevzi̇ bozkurt",
+    "weekly": 1,
+    "capacity": 170
+  },
+  "EEE306": {
+    "professor": "mehmet ti̇mur aydemi̇r",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "EEE308*1": {
+    "professor": "feza keresteci̇oğlu",
+    "weekly": 2,
+    "capacity": 45
+  },
+  "EEE414_LEC": {
+    "professor": "yalçin şadi̇",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "EEE414_LAB": {
+    "professor": "yalçin şadi̇",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "EEE461*1": {
+    "professor": "aydoğan özdemi̇r",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "FENS102": [
+    {
+      "professor": "funda samanlioğlu - ahmet ni̇hat berker",
+      "weekly": 2,
+      "capacity": 200
+    },
+    {
+      "professor": "ayşe hümeyra bi̇lge",
+      "weekly": 2,
+      "capacity": 180
+    },
+    {
+      "professor": "i̇rma hacinliyan",
+      "weekly": 2,
+      "capacity": 150
+    },
+    {
+      "professor": "ayşe hümeyra bi̇lge",
+      "weekly": 2,
+      "capacity": 175
+    }
+  ],
+  "FENS103": [
+    {
+      "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+      "weekly": 1,
+      "capacity": 115
+    },
+    {
+      "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+      "weekly": 1,
+      "capacity": 110
+    },
+    {
+      "professor": "deni̇z eroğlu - arash mohammadian rezaeinazhad",
+      "weekly": 1,
+      "capacity": 110
+    }
+  ],
+  "FENS112": [
+    {
+      "professor": "mehmet önder pekcan",
+      "weekly": 2,
+      "capacity": 120
+    },
+    {
+      "professor": "mehmet önder pekcan",
+      "weekly": 2,
+      "capacity": 130
+    },
+    {
+      "professor": "ahmet ni̇hat berker",
+      "weekly": 2,
+      "capacity": 150
+    },
+    {
+      "professor": "ahmet ni̇hat berker",
+      "weekly": 2,
+      "capacity": 150
+    }
+  ],
+  "FENS200*1": {
+    "professor": "göker arpağ",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "FENS300": {
+    "professor": "ayşe hümeyra bi̇lge - feza keresteci̇oğlu - gökhan ki̇rki̇l",
+    "weekly": 2,
+    "capacity": 260
+  },
+  "FENS310": {
+    "professor": "meltem ucal - gökhan ki̇rki̇l - asli togan - oğuz ersan",
+    "weekly": 1,
+    "capacity": 220
+  },
+  "FENS410": {
+    "professor": "yalçin şadi̇",
+    "weekly": 1,
+    "capacity": 150
+  },
+  "FENS495": {
+    "professor": "fabio stroppa",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "FENS496": {
+    "professor": "fabio stroppa",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "GE200": {
+    "professor": "ahmet ni̇hat berker",
+    "weekly": 1,
+    "capacity": 107
+  },
+  "GE212": {
+    "professor": "i̇lktan ar",
+    "weekly": 1,
+    "capacity": 52
+  },
+  "INE214": [
+    {
+      "professor": "burak şen",
+      "weekly": 1,
+      "capacity": 42
+    },
+    {
+      "professor": "burak şen",
+      "weekly": 1,
+      "capacity": 42
+    }
+  ],
+  "INE216": {
+    "professor": "ahmet deni̇z yücekaya",
+    "weekly": 1,
+    "capacity": 120
+  },
+  "INE241*1": {
+    "professor": "emre çevi̇kcan",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE299": {
+    "professor": "zeynep bektas",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE312": {
+    "professor": "funda samanlioğlu",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE315": {
+    "professor": "cengi̇z kahraman",
+    "weekly": 1,
+    "capacity": 60
+  },
+  "INE321": {
+    "professor": "zeynep bektas",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "INE324*1": {
+    "professor": "zeynep bektas",
+    "weekly": 2,
+    "capacity": 130
+  },
+  "INE332": {
+    "professor": "peli̇n gülşah canbolat",
+    "weekly": 1,
+    "capacity": 120
+  },
+  "INE342": {
+    "professor": "ahmet deni̇z yücekaya",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE399": {
+    "professor": "zeynep bektas",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE409": {
+    "professor": "peli̇n gülşah canbolat",
+    "weekly": 1,
+    "capacity": 60
+  },
+  "INE412": {
+    "professor": "cengi̇z kahraman",
+    "weekly": 1,
+    "capacity": 110
+  },
+  "INE421": {
+    "professor": "envera jahovi̇ç sarayli",
+    "weekly": 1,
+    "capacity": 60
+  },
+  "INE443": {
+    "professor": "şevket volkan edi̇ger",
+    "weekly": 1,
+    "capacity": 60
+  },
+  "INE488": [
+    {
+      "professor": "ahmet deni̇z yücekaya - kerem şurğun",
+      "weekly": 1,
+      "capacity": 43
+    },
+    {
+      "professor": "ahmet deni̇z yücekaya - kerem şurğun",
+      "weekly": 1,
+      "capacity": 43
+    }
+  ],
+  "MBG101": {
+    "professor": "kemal yelekçi̇",
+    "weekly": 1,
+    "capacity": 41
+  },
+  "MBG104": {
+    "professor": "farzaneh larti̇",
+    "weekly": 1,
+    "capacity": 90
+  },
+  "MBG118": [
+    {
+      "professor": "yi̇ği̇t kocagöz",
+      "weekly": 1,
+      "capacity": 17
+    },
+    {
+      "professor": "yi̇ği̇t kocagöz",
+      "weekly": 1,
+      "capacity": 15
+    },
+    {
+      "professor": "yi̇ği̇t kocagöz",
+      "weekly": 1,
+      "capacity": 15
+    }
+  ],
+  "MBG202": {
+    "professor": "kemal yelekçi̇",
+    "weekly": 1,
+    "capacity": 10
+  },
+  "MBG208*2": {
+    "professor": "nuray söğünmez erdoğan - göker arpağ",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "MBG210*1": {
+    "professor": "farzaneh larti̇",
+    "weekly": 1,
+    "capacity": 50
+  },
+  "MBG212_LEC": {
+      "professor": "kemal yelekçi̇",
+      "weekly": 1,
+      "capacity": 15
+  },
+  "MBG212_LAB": {
+    "professor": "kemal yelekçi̇",
+    "weekly": 2,
+    "capacity": 15
+  },
+  "MBG214": {
+    "professor": "göker arpağ",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG215": {
+    "professor": "farzaneh larti̇",
+    "weekly": 1,
+    "capacity": 90
+  },
+  "MBG222": [
+    {
+      "professor": "kemal yelekçi̇",
+      "weekly": 1,
+      "capacity": 15
+    },
+    {
+      "professor": "kemal yelekçi̇",
+      "weekly": 1,
+      "capacity": 15
+    },
+    {
+      "professor": "kemal yelekçi̇",
+      "weekly": 1,
+      "capacity": 15
+    }
+  ],
+  "MBG299": {
+    "professor": "kemal yelekçi̇",
+    "weekly": 1,
+    "capacity": 100
+  },
+  "MBG304": {
+    "professor": "ebru demet akdoğan",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG306": {
+    "professor": "ebru bi̇lget güven",
+    "weekly": 1,
+    "capacity": 35
+  },
+  "MBG318": {
+    "professor": "şebnem eşsi̇z tekgüç",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG322*1_LEC": {
+      "professor": "yasemi̇n önder",
+      "weekly": 1,
+      "capacity": 15
+  },
+  "MBG322*1_LAB": {
+    "professor": "yasemi̇n önder",
+    "weekly": 2,
+    "capacity": 15
+  },
+  "MBG399": {
+    "professor": "kemal yelekçi̇",
+    "weekly": 1,
+    "capacity": 100
+  },
+  "MBG406": {
+    "professor": "nuray söğünmez erdoğan",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG412*1": {
+    "professor": "yasemi̇n önder",
+    "weekly": 1,
+    "capacity": 100
+  },
+  "MBG420": {
+    "professor": "ebru bi̇lget güven",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG428": {
+    "professor": "şebnem eşsi̇z tekgüç",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG430": {
+    "professor": "yasemi̇n önder",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MBG432": {
+    "professor": "ebru demet akdoğan",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MTE102": {
+    "professor": "vahi̇t bariş tavakol",
+    "weekly": 1,
+    "capacity": 80
+  },
+  "MTE294*2": {
+      "professor": "faraz tehrani̇zadeh",
+      "weekly": 2,
+      "capacity": 40
+  },
+  "MTE299": {
+    "professor": "faraz tehrani̇zadeh",
+    "weekly": 1,
+    "capacity": 100
+  },
+  "MTE312": {
+    "professor": "faraz tehrani̇zadeh",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MTE392*1": {
+    "professor": "ahmet fevzi̇ bozkurt",
+    "weekly": 1,
+    "capacity": 40
+  },
+  "MTE394": {
+    "professor": "mi̇ne saraç stroppa",
+    "weekly": 2,
+    "capacity": 55
+  },
+  "MTE399": {
+    "professor": "faraz tehrani̇zadeh",
+    "weekly": 1,
+    "capacity": 100
+  },
+  "MTE405": {
+    "professor": "alperen acemoğlu",
+    "weekly": 1,
+    "capacity": 30
+  },
+  "MTE451": {
+    "professor": "alperen acemoğlu",
+    "weekly": 1,
+    "capacity": 40
+  }
+}
