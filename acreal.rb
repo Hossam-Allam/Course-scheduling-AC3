@@ -30,7 +30,7 @@ def period_order(p)
   day_order[p[:day]] * 10 + p[:period]
 end
 
-variables = $courses.to_a.to_h
+variables = $courses
 
 domains = {}
 variables.each_key do |var|
@@ -237,4 +237,3 @@ else
   puts "No valid assignment found."
 end
 
-puts period_order({:day=>"Tue", :period=>4})
