@@ -50,60 +50,28 @@ domains.each do |course, d|
   end
 end
 
-# Binary constraints between lectures and their labs (lecture before lab)
-constraints = {
-  # CMPE140*1
-  ["CMPE140*1_LEC_1_1", "CMPE140*1_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LAB_1_1", "CMPE140*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
+# We can add predefined constraints here if needed
+constraints = {}
 
-  ["CMPE140*1_LEC_2_1", "CMPE140*1_LAB_2_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LEC_2_1", "CMPE140*1_LAB_2_2"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LEC_2_1", "CMPE140*1_LAB_2_3"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LEC_2_1", "CMPE140*1_LAB_2_4"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LAB_2_1", "CMPE140*1_LEC_2_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LAB_2_2", "CMPE140*1_LEC_2_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LAB_2_3", "CMPE140*1_LEC_2_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["CMPE140*1_LAB_2_4", "CMPE140*1_LEC_2_1"] => ->(b,a){ block_order(a) < block_order(b) },
+# Will contain LEC/LAB pairs dynamically loaded based on course data
+dynamic_constraints = {}
 
-  # CMPE241*1
-  ["CMPE241*1_LEC_1_1", "CMPE241*1_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE241*1_LEC_1_1", "CMPE241*1_LAB_1_2"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE241*1_LAB_1_1", "CMPE241*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["CMPE241*1_LAB_1_2", "CMPE241*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
+course_data.keys.each do |course|
+  # match anything ending with _LEC_x_y
+  if lec = course.match(/\A(.+)_LEC_(\d+_\d+)\z/)
+    base, idx = lec.captures
+    lab_course = "#{base}_LAB_#{idx}"
+    if course_data.key?(lab_course)
+      # lecture before lab
+      dynamic_constraints[[course,   lab_course]] = ->(a,b){ block_order(a) < block_order(b) }
+      # lab also before lecture (inverse arc)
+      dynamic_constraints[[lab_course, course]]   = ->(b,a){ block_order(a) < block_order(b) }
+    end
+  end
+end
 
-  # CMPE242
-  ["CMPE242_LEC_1_1", "CMPE242_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE242_LAB_1_1", "CMPE242_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["CMPE242_LEC_2_1", "CMPE242_LAB_2_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["CMPE242_LAB_2_1", "CMPE242_LEC_2_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-  # EEE104
-  ["EEE104_LEC_1_1", "EEE104_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE104_LAB_1_1", "EEE104_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-  # EEE203
-  ["EEE203*1_LEC_1_1", "EEE203*1_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE203*1_LAB_1_1", "EEE203*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-  # EEE204
-  ["EEE204*1_LEC_1_1", "EEE204*1_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE204*1_LAB_1_1", "EEE204*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-  ["EEE204*1_LEC_1_1", "EEE204*1_LAB_1_2"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE204*1_LAB_1_2", "EEE204*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-  # EEE304
-  ["EEE304*1_LEC_1_1", "EEE304*1_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE304*1_LAB_1_1", "EEE304*1_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-  # EEE414
-  ["EEE414_LEC_1_1", "EEE414_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["EEE414_LAB_1_1", "EEE414_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) },
-
-
-  ["MBG212_LEC_1_1", "MBG212_LAB_1_1"] => ->(a,b){ block_order(a) < block_order(b) },
-  ["MBG212_LAB_1_1", "MBG212_LEC_1_1"] => ->(b,a){ block_order(a) < block_order(b) }
-}
-
+# merge with any existing constraints
+constraints.merge!(dynamic_constraints)
 
 
 # Neighboring relations for AC-3
@@ -254,4 +222,4 @@ export = {
 
 #File.write("pruned.json", JSON.pretty_generate(export))
 
-File.write("rooms.json", JSON.pretty_generate(rooms))
+#File.write("rooms.json", JSON.pretty_generate(rooms))
